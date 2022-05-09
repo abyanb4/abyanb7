@@ -2,7 +2,7 @@
 
 <h1>Welcome to my humble github space...</h1> 
 
-[![Linkedin Badge](https://i.ibb.co/Qd4VN5S/icons8-linkedin-circled-48.png)](https://www.linkedin.com/in/abyanburhanuddin/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abyanburhanuddin/)
 
 **<p align="center">"I can accept failure, everyone fails at something, but I can't accept not trying"</p>**
 <p align="center">- Michael Jordan</p>
