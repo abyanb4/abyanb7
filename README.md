@@ -4,10 +4,10 @@
 
 [![Linkedin Badge](https://i.ibb.co/Qd4VN5S/icons8-linkedin-circled-48.png)](https://www.linkedin.com/in/abyanburhanuddin/)
 
-<div style="text-align:center;">"I can accept failure, everyone fails at something, but I can't accept not trying"</div>
-<div style="text-align:center;">- Michael Jordan</div>
+**<p align="center">"I can accept failure, everyone fails at something, but I can't accept not trying"</p>**
+<p align="center">- Michael Jordan</p>
  
- ## Who am I?
+ ## Introduction
  ```python
  class WhoAmI:
    def __init__:
@@ -27,9 +27,9 @@
  ```
  
 ## What I do, currently..
- * I'm currently compiling chapter 5 and 6 of my thesis. Hoping to graduate on **August 2022!** 😀
+ * I'm currently compiling chapter 5 and 6 of my thesis. Hoping to graduate this year! 😀
  * Solving hackerrank problem
- * Learning Go and Golang
+ * Learning Golang
  
 ## Other Stuff
   - :octocat: [My Resume](https://drive.google.com/file/d/1tFX_h5S8brhMGAz1QWto8unGrPr5hHw1/view?usp=sharing)
