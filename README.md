@@ -33,7 +33,7 @@
  * Learning Golang
  
 ## Other Stuff
-  - :octocat: [My Resume](https://drive.google.com/file/d/1tFX_h5S8brhMGAz1QWto8unGrPr5hHw1/view?usp=sharing)
+  - :octocat: [My Resume](https://drive.google.com/drive/folders/1bp6eV_Czm85s7uKpm70tJ7kYBqCCKvqF?usp=sharing)
 
  
  
